@@ -1,0 +1,158 @@
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\BookCollection.exe
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\BookCollection.deps.json
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\BookCollection.runtimeconfig.json
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\BookCollection.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\BookCollection.pdb
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\SQLitePCLRaw.core.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection\BookCollection\bin\Release\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.csproj.AssemblyReference.cache
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\AddBook.g.cs
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\MainWindow.g.cs
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\UpdateBook.g.cs
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\App.g.cs
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection_MarkupCompile.cache
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection_MarkupCompile.lref
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\AddBook.baml
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\MainWindow.baml
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\UpdateBook.baml
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.g.resources
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.AssemblyInfoInputs.cache
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.AssemblyInfo.cs
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.csproj.CoreCompileInputs.cache
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.csproj.CopyComplete
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.dll
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\refint\BookCollection.dll
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.pdb
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\BookCollection.genruntimeconfig.cache
+D:\Test\NewProjects\BookCollection\BookCollection\obj\Release\net7.0-windows\ref\BookCollection.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\BookCollection.exe
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\BookCollection.deps.json
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\BookCollection.runtimeconfig.json
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\BookCollection.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\BookCollection.pdb
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Azure.Core.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Azure.Identity.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\SQLitePCLRaw.core.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\System.Memory.Data.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\System.Runtime.Caching.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\bin\Release\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.csproj.AssemblyReference.cache
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\AddBook.g.cs
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\MainWindow.g.cs
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\UpdateBook.g.cs
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\App.g.cs
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection_MarkupCompile.cache
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection_MarkupCompile.lref
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\AddBook.baml
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\MainWindow.baml
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\UpdateBook.baml
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.g.resources
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.AssemblyInfoInputs.cache
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.AssemblyInfo.cs
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.csproj.CoreCompileInputs.cache
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.csproj.CopyComplete
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\refint\BookCollection.dll
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.pdb
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\BookCollection.genruntimeconfig.cache
+D:\Test\NewProjects\BookCollection — mssql\BookCollection\obj\Release\net7.0-windows\ref\BookCollection.dll
