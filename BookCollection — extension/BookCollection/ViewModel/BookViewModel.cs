@@ -24,15 +24,13 @@ namespace BookCollection.ViewModel
         bool rb2;
         public static AddBook addBook;
         public static UpdateBook updateBook;
-        public List<Book> books;
+        List<Book> books;
         public static Book selectedItem;
 
         public BookViewModel()
         {
-            bookService = new BookTxtService(); 
-            // гарантируем, что база данных создана
-            db.Database.EnsureCreated();
-            //обновление данных
+            bookService = new BookTxtService();
+            //bookService = new BookDbService(); 
             RefreshData();
         }
 
@@ -121,8 +119,7 @@ namespace BookCollection.ViewModel
 
                       if (result == MessageBoxResult.Yes)
                       {
-                          bookService.DeleteBook(selectedItem); 
-                          db.SaveChanges();
+                          bookService.DeleteBook(selectedItem);
                           RefreshData();
                       }
                   }
@@ -135,30 +132,14 @@ namespace BookCollection.ViewModel
             if (rb1)
             {
                 books = bookService.SortAuthor();
-                //books = db.Books.OrderBy(x => x.Author).ToList();
-                
-                // с помощью оператора orderby
-                /*books = (from book in db.Books                       
-                            orderby book.Author
-                            select book).ToList();*/
             }
             else if (rb2)
             {
                 books = bookService.SortYear();
-                //books = db.Books.OrderBy(x => x.YearPublication).ToList();
-                
-                /*books = (from book in db.Books
-                         orderby book.YearPublication
-                         select book).ToList();*/
             }
             else
             {
                 books = bookService.GetAllBooks();
-                //books = db.Books.ToList();
-                
-                /*books = (from book in db.Books
-                         where true
-                         select book).ToList();*/
             }
             Books = books;
         }

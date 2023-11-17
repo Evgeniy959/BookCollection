@@ -16,10 +16,5 @@ namespace BookCollection.ViewModel
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(prop));
         }
-        /*public event PropertyChangedEventHandler PropertyChanged;
-        protected void PropertyChanging(string name)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
-        }*/
     }
 }

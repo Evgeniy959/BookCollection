@@ -9,7 +9,7 @@
     <Window.Resources>
         <DataTemplate x:Key="ListBoxTemplate">
             <Border x:Name="bookBorder" CornerRadius="15" BorderBrush="CadetBlue" BorderThickness="2"
-                    Background="LightBlue" Height="40" Width="400" >
+                    Background="LightBlue" Height="40" Width="600" >
             <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"></ColumnDefinition>
@@ -40,6 +40,12 @@
             <Setter Property="FontFamily" Value="Verdana" />
             <Setter Property="Margin" Value="5" />
         </Style>
+        <Style TargetType="RadioButton">
+            <Setter Property="BorderBrush" Value="Red" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="Foreground" Value="BlueViolet" />
+            <Setter Property="Margin" Value="12" />
+        </Style>
         <Style x:Key="BookHeader">
             <Setter Property="Control.FontFamily" Value="Verdana" />
             <Setter Property="Control.Foreground" Value="Red" />
@@ -52,7 +58,7 @@
             </Border>
             <ControlTemplate.Triggers>
                 <Trigger Property="IsMouseOver" Value="true">
-                    <Setter Property="Background" Value="CadetBlue" />
+                    <Setter Property="FontSize" Value="14" />
                     <Setter Property="FontWeight" Value="Bold" />
                 </Trigger>
             </ControlTemplate.Triggers>
@@ -71,60 +77,20 @@
 
         <TextBlock Text="Book Collection" HorizontalAlignment="Center" Style="{StaticResource BookHeader}"/>
 
-        <StackPanel Orientation="Horizontal"  Grid.Column="1">
-            <RadioButton IsChecked="{Binding Rb1, UpdateSourceTrigger=PropertyChanged}" Margin="3">Сортировать по автору</RadioButton>
-            <RadioButton IsChecked="{Binding Rb2, UpdateSourceTrigger=PropertyChanged}" Margin="3">Сортировать по году издания</RadioButton>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <RadioButton IsChecked="{Binding Rb1, UpdateSourceTrigger=PropertyChanged}">Сортировать по автору</RadioButton>
+            <RadioButton IsChecked="{Binding Rb2, UpdateSourceTrigger=PropertyChanged}">Сортировать по году издания</RadioButton>
         </StackPanel>
 
         <ListBox SelectedItem="{Binding SelectedItem, 
             UpdateSourceTrigger=PropertyChanged}" ItemsSource="{Binding Books
             , UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" ItemTemplate="{StaticResource ListBoxTemplate}">
         </ListBox>
-        <!--<DataGrid ItemsSource="{Binding Products,UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" Grid.Column="1" >
-        </DataGrid>-->
-        <!--<ListBox ItemsSource="{Binding ClientProducts, UpdateSourceTrigger=PropertyChanged}" ItemTemplate="{StaticResource ListBoxTemplate}" Grid.Row="1" Grid.Column="1"></ListBox>
-        <Button Command="{Binding BuyProduct, UpdateSourceTrigger=PropertyChanged}" Grid.Row="2" >Купить</Button>-->
         <StackPanel Grid.Row="2" Orientation="Horizontal">
-            <Button Command="{Binding AddButton, UpdateSourceTrigger=PropertyChanged}" Template="{StaticResource btTemplate}" Width="155" >Добавить позицию</Button>
-            <Button Command="{Binding UpdateButton, UpdateSourceTrigger=PropertyChanged}" Template="{StaticResource btTemplate}" Width="155" >Изменить позицию</Button>
-            <Button Command="{Binding DeleteButton, UpdateSourceTrigger=PropertyChanged}" Template="{StaticResource btTemplate}" Width="160" >Удалить</Button>
+            <Button Command="{Binding AddButton, UpdateSourceTrigger=PropertyChanged}" Template="{StaticResource btTemplate}" Width="170" >Добавить позицию</Button>
+            <Button Command="{Binding UpdateButton, UpdateSourceTrigger=PropertyChanged}" Template="{StaticResource btTemplate}" Width="170" >Изменить позицию</Button>
+            <Button Command="{Binding DeleteButton, UpdateSourceTrigger=PropertyChanged}" Template="{StaticResource btTemplate}" Width="170" >Удалить позицию</Button>
         </StackPanel>
     </Grid>
 
-    <!--<Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition />
-            <RowDefinition />
-            <RowDefinition Height="50" />
-        </Grid.RowDefinitions>
-        <ListBox x:Name="List" ItemsSource="{Binding}">
-            <ListBox.ItemTemplate>
-                <DataTemplate>
-                    <StackPanel>
-                        <TextBlock Text="{Binding Author}" FontSize="16" />
-                        <TextBlock Text="{Binding Title}" FontSize="13" />
-                        <TextBlock Text="{Binding YearPublication}" FontSize="16" />
-                        <TextBlock Text="{Binding Theme}" FontSize="13" />
-                    </StackPanel>
-                </DataTemplate>
-            </ListBox.ItemTemplate>
-        </ListBox>
-        <StackPanel Grid.Row="1" Width="200" >
-            <TextBox x:Name="AddAuthor" Text="{Binding Author}" Margin="10" />
-            <TextBox x:Name="AddTitle" Text="{Binding Title}"  Margin="10" />
-            <TextBox x:Name="AddYear" Text="{Binding YearPublication}" Margin="10" />
-            <ComboBox x:Name="AddTheme" Text="{Binding Theme}" Margin="10" IsEditable="True">
-                <TextBlock>Romantic</TextBlock>
-                <TextBlock>Detective</TextBlock>
-                <TextBlock>Fantastic</TextBlock>
-                <TextBlock>Biography</TextBlock>
-                <TextBlock>Journeys</TextBlock>
-                <TextBlock>Tale</TextBlock>
-            </ComboBox>
-        </StackPanel>
-        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
-            <Button Content="Добавить" Margin="10" Click="Add_Click" />
-            <Button Content="Удалить" Margin="10" Click="Delete_Click"  />
-        </StackPanel>
-    </Grid>-->
 </Window>

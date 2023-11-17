@@ -45,9 +45,9 @@ namespace BookCollection.ViewModel
                     case "YearPublication":
                         if ((YearPublication < 0) || (YearPublication > int.Parse(DateTime.Now.ToShortDateString().Remove(0, 6))))
                         {
-                            error = $"Год должен быть больше 0 и меньше {int.Parse(DateTime.Now.ToShortDateString().Remove(0, 6))}";
+                            error = $"Год должен быть от 0 до {int.Parse(DateTime.Now.ToShortDateString().Remove(0, 6))}";
                         }
-                        else if (YearPublication.ToString().Length < 1)
+                        else if (YearPublication.ToString()=="")
                         {
                             error = "Поле не может быть пустым";
                         }                        
@@ -57,10 +57,6 @@ namespace BookCollection.ViewModel
                         {
                             error = "Поле не может быть пустым";
                         }
-                        /*else if (Title.Length < 2)
-                        {
-                            error = "Название не может быть менее 2 символов";
-                        }*/
                         break;
                 }
                 if (ErrorCollection.ContainsKey(columnName))
@@ -78,6 +74,7 @@ namespace BookCollection.ViewModel
 
         public AddEditBook()
         {
+            //bookService = new BookDbService();
             bookService = new BookTxtService();
             if (BookViewModel.selectedItem != null)
             {
@@ -87,12 +84,6 @@ namespace BookCollection.ViewModel
                 Theme = BookViewModel.selectedItem.Theme;
             }
         }
-
-        /*public AddEditBook(IBookService bookService)
-        {
-            this.bookService = bookService;
-        }*/
-
 
         public ICommand CloseButton
         {
@@ -116,6 +107,10 @@ namespace BookCollection.ViewModel
               {
                   Book book = new Book() { Author = author, Title = title, YearPublication = yearPublication, Theme = theme };
                   bookService.UpdateBook(book, BookViewModel.selectedItem.Id);
+                  BookViewModel.selectedItem.Author = book.Author;
+                  BookViewModel.selectedItem.Title = book.Title;
+                  BookViewModel.selectedItem.YearPublication = book.YearPublication;
+                  BookViewModel.selectedItem.Theme = book.Theme;
                   BookViewModel.updateBook.Close();
               });
             }

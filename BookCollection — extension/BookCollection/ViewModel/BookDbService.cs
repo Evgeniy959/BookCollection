@@ -14,8 +14,6 @@ namespace BookCollection.ViewModel
     public class BookDbService : IBookService
     {
         AppDbContext db;
-        /*public static AddBook addBook;
-        public static UpdateBook updateBook;*/
 
         public BookDbService()
         {
@@ -29,7 +27,7 @@ namespace BookCollection.ViewModel
                 db.Books.Add(book);
                 db.SaveChanges();
             }
-            catch 
+            catch (Exception)
             {
                 MessageBox.Show("Заполните все поля");
             }            
@@ -37,7 +35,8 @@ namespace BookCollection.ViewModel
 
         public void DeleteBook(Book book)
         {
-            throw new NotImplementedException();
+            db.Books.Remove(book);
+            db.SaveChanges();
         }
 
         public List<Book> GetAllBooks()
@@ -62,8 +61,6 @@ namespace BookCollection.ViewModel
             editBook.Title = book.Title;
             editBook.YearPublication = book.YearPublication;
             editBook.Theme = book.Theme;
-            /*db.Entry(update).State = EntityState.Modified;
-            db.Books.Update(update);*/
             db.SaveChanges();
         }
     }
